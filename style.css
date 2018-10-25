@@ -1,0 +1,53 @@
+
+body {
+  background: url("https://d3g00f3t09yzqp.cloudfront.net/2017/02/170131-Wiki.png") no-repeat center top; 
+  font-family: 'Raleway', sans-serif;
+  text-align: center; 
+}
+
+a:hover,
+a:visited,
+a:active,
+a:link {
+  text-decoration: none;
+}
+
+.heading{
+  font-family: 'Raleway', sans-serif;
+  background-color: #0000FF;
+  color: white;
+  border-radius:25px;
+  margin:3%;
+  padding:3%;
+  display:inline-block;
+}
+
+p{
+  padding-bottom: 1%;
+  padding-left:1%;
+  font-size:17px;
+  color:white;
+  text-align: left;
+  font-family: 'Raleway', sans-serif;
+}
+div{
+  border-radius:25px;
+}
+
+button{
+margin:1%;
+}
+#results{
+ margin-top:1%;
+ border-radius:25px;
+ font-family: 'Raleway', sans-serif;
+ background-color: #0000FF;
+}
+
+h3{
+  font-family: 'Raleway', sans-serif;
+  color:black;
+  padding-left:1%;
+  padding-top:1%;
+  text-align: left;
+}
